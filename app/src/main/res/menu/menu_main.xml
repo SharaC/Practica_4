@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="com.example.sharita.practica4.MainActivity">
+
+
+    <item android:id="@+id/turismo"
+
+        android:title="@string/sitios_turisticos"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/hoteles"
+        android:title="@string/hoteles"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/bares"
+        android:title="@string/bares"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/informacion"
+        android:title="@string/Info"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/acercaDe"
+        android:title="@string/acerca"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+</menu>

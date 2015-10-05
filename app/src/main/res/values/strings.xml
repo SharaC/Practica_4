@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Practica4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sitios_turisticos">Sitios_turisticos</string>
+    <string name="sitios_turisticos">Sitios Turísticos</string>
+    <string name="Leticia">LeticiaExótica</string>
+    <string name="descripcion">Guía turística de la fascinante y exhuberante ciudad amazónica
+        de Colombia, Para gustos Exóticos y atrevidos. Información de hoteles,
+    bares, restaurantes, sitios turísticos y mas...</string>
+    <string name="Sitios">"Sitios turísticos</string>
+    <string name="amacayacu">Parque Nacional Amacayacu</string>
+    <string name="desAmacayacu">Al visitar este espacio podrá observar algunas de las
+        más de 500 especies de aves, como guacamayas y papagayos. También habitan allí cerca
+        de 150 mámiferos, como el delfín rosado, el manatí, la nutría, la danta, el jaguar y el
+    tití leoncito. También se encuentran algunas especies de reptiles y muchas fascinantes especies más.</string>
+    <string name="desAmacayu2">El Parque Nacional Natural Amacayacu, está ubicado en el extremo sur del
+        departamento del Amazonas, en el denominado “Trapecio Amazónico”. El Parque es la primera
+        área protegida creada en el Amazonas colombiano en 1975. Es la única área del sistema de
+        parques que protege el bosque inundable del río Amazonas o várzea.</string>
+    <string name="cahuinari">Parque Natural Cahuinarí</string>
+    <string name="cahuinarides">Al visitar este espacio podrá ver los caimanes negros de hasta 10
+    metros de longitud, y charapas, las tortugas de agua dulce más grandes del mundo en las playas de los
+    ríos Cahuanarí y Bernardo, a demas de otras especies como pirañas, babillas, anacondas, tigrillos,
+        dantas, venados y jaguares.
+    Se pueden practicar deportes extremos en el lago Taropo, como esquí náutico, canotaje y además
+    pesca deportiva.</string>
+    <string name="cahuinarides2">En el Parque Nacional Natural Cahuinarí, que mide 575.000 ha, se encuentra
+        el resguardo indígena Predio Putumayo. La zona está habitada por miembros de las etnias Bora,
+        Miraña, Andoque, Nonyuna-Muinane y Huitoto; y en ella crecen árboles de 40 m..</string>
+    <string name="tarapoto">Lago tarapoto</string>
+    <string name="tarapotodes">Es un lugar especial para observar a los delfines rosados, grises
+        y otros animales en su hábitat natural, un espacio rodeado de selva exuberante con grandes
+        árboles y senderos para realizar caminatas.
+        Los delfines más pequeños son grises, y los más grandes son de piel rosada, estos delfines son únicos
+        en el mundo. Podemos contemplar sus juegos y piruetas en el lago amazónico.
+        En este y otros lagos de la región es posible apreciar la "Victoria Regia" (una variedad gigantesca
+        de loto). Además se puede apreciar el árbol de la fertilidad o comúnmente llamado en la región
+        Capinuri por su particular semejanza con el órgano sexual masculino.</string>
+    <string name="tarapotodes2">El lago se encuentra ubicado a 80 kilómetros de Leticia, cerca de hora
+        y media de recorrido por el río Amazonas, cuna de los símbolos de la región amazónica. </string>
+    <string name="title_activity_hoteles">Hoteles</string>
+    <string name="hoteles">Hoteles de la ciudad</string>
+    <string name="utuane">Hotel Utuane</string>
+    <string name="utuanedes">Utüane es un proyecto nuevo de hotelería
+        que pretende ofrecer a sus clientes el máximo descanso y comodidad después de un día lleno de aventura
+        en el Amazonas. Su nombre inspirado en la lengua Ticuna, significa un lugar de descanso.
+        Su infraestructura está inspirada en la naturaleza y en las malocas propias del lugar, rústicas pero muy
+        confortables. Su decoración con un toque de arte local identifica a cada una de ellas con el nombre
+        de un animal nativo del amazonas, con colores que contrastan con la belleza de la naturaleza.
+        Cuenta con 12 malocas bioclimáticas, construías en madera en un 95%.
+        La piscina y los senderos fueron construidos con ladrillos ecológicos.
+        Busca minimizar el impacto ambiental y crear conciencia ecológica entre los huéspedes.
+        Ante todo se respeta el medio ambiente y el paisaje de la zona
+        sin alterarlo en lo mas mínimo. El hotel esta alejado del ruido y la zona turística convencional,
+        rodeado de naturaleza.
+        En Utuane promueve el turismo ecológico, multiétnico y de aventura con responsabilidad, cuya prioridad es
+        el respeto a la naturaleza, la conciencia ambiental y cultural.</string>
+    <string name="utuanedes2">El Hotel Utuane se encuentra ubicado a 5 minutos del centro de la ciudad de Leticia
+        en la Calle 14C No.2A – 11/19 Barrio la Sarita</string>
+    <string name="kurupira">Kurupira Cabaña Flotante</string>
+    <string name="kurupirades">La Kurupira es un hotel flotante,donde se puede disfrutar del encanto del rio y hermosos atardeceres.
+        Las instalaciones del hotel en el amazonas están construidas en materiales autoctonos, segun la tradicion nativa.
+        Su nombre KURUPIRA según la leyenda es la madre selva, toda poderosa.
+        Si quiere vivir una experiencia real en el Amazonas este es el lugar. El amanecer en esta casa es todo un espectáculo
+        natural: delfines pasando, pájaros cantando, la naturaleza en pleno concierto y el sol en su esplendor. Es
+        ideal madrugar mucho y acostarse temprano. Puede nadar al frente de la casa o hacerse una mascarilla de barro en la parte trasera.
+        Allí se ofrecen planes turísticos en los cuales realizar actividades ecoturísticas, observación de fauna y flora,
+        visitas a comunidades nativas, lagos y bosques.</string>
+    <string name="kurupirades2">El hotel está ubicado sobre el Río amazonas a 15 minutos en las afueras de Leticia</string>
+    <string name="ticuna">Decameron Decalodge Ticuna</string>
+    <string name="ticunades">Entre a la biodiversidad más grande del mundo. El Hotel Decalodge Ticuna es un resort moderno con
+        todas las comodidades, su ubicación en el corazón de Leticia capital del Departamento de Amazonas, lo convierte en un sitio
+        privilegiado por ser frontera entre Colombia, Perú y Brasil.
+        La estructura utiliza conceptos modernos en diseño de hoteles internacionales. La samba brasileña,
+        la gastronomía peruana, la pasión colombiana y el espíritu Decameron convergen en este encanto amazónico.
+        Leticia es sinónimo de alegría, paz y fraternidad; es considerado el lugar del planeta con la más fascinante
+        e insospechada vitrina de recursos naturales gracias a su ubicación sobre el rio más caudaloso del mundo, el Rio Amazonas.
+
+        Este hotel se convierte en una inolvidable propuesta para los amantes del turismo ecológico, el contacto con la naturaleza
+        y el descubrimiento de nuevos horizontes.</string>
+    <string name="ticunades2">Se encuentra ubicado en la Cra 11 No. 6-11 - Leticia, Amazonas, a sólo 10
+    minutos del aeropuerto Vásquez Cobo.</string>
+    <string name="title_activity_bares">Bares</string>
+    <string name="bares">Bares de la Ciudad</string>
+    <string name="shots">Shot´s and Cokctails</string>
+    <string name="shotsdes">Un sitio agradable diferente, donde disfrutarás de los mejores licores,
+        un excelente servicio y muy buena musica!</string>
+    <string name="shotsdes2">Se encuentra ubicado en el municipio de leticia, en la  calle 7, 6-27. Conocida zona Rosa. </string>
+    <string name="abuelo">El Abuelo Night</string>
+    <string name="abuelodes">Un sitio para disfrutar su tarde o noche, con las cervezas o bebidas mas heladas y refrescantes.
+    Música crossover y DJ´s en vivo</string>
+    <string name="abuelodes2">Se encuentra ubicado en el municipio de leticia, Carrera 11 Nº 6 - 107 al lado del Hotel Decameron. </string>
+    <string name="tierras">Tierras Amazónicas Restaurante-Bar</string>
+    <string name="tierrasdes">Más conocido como "tragadero, bebedero" Su principal servicio es de restaurante. El Restaurante Tierras Amazónicas
+        brinda deliciosa comida tradicional del Amazonas,  gran variedad en pescados, carnes y
+        sopas tipicas de esta región. Tambien cuenta con variedad de bebidas y un ambiente muy amazónico </string>
+    <string name="tierrasdes2">Se encuentra ubicado en la Calle 8 # 7-50 Barrio CentroLeticia, Amazonas.
+    Hotel Tierras Amazónicas</string>
+    <string name="title_activity_info_demografica">Info_demografica</string>
+    <string name="Info">Información Demográfica de la Ciudad de Leticia</string>
+    <string name="Infodes">Leticia es una ciudad ubicada en el extremo sur de Colombia. Es la capital del Departamento
+        del Amazonas. A pesar de estar alejada de los principales centros urbanos del país, sin comunicación por
+        carretera, constituye un nexo comercial importante con Brasil debido a su situación de ciudad limí­trofe
+        sobre el río Amazonas y cercana al hito tripartito con Perú y Brasil.
+        Actualmente reúne casi el 60% de la población del departamento y la mayor parte indígena de diversas
+        comunidades como: los Huitotos, Ingas, Tucanos, Ticunas y Nukaks. La ciudad tiene un gran crecimiento
+        demográfico y técnicamente forma una sola ciudad con el municipio brasileño de Tabatinga.</string>
+    <string name="Infodes2">Gran parte de sus habitantes son indígenas, pero también se pueden encontrar diversos grupos,
+        entre los más notables encontramos: Huitotos, Yaguas, Tucanos, Ticunas, Camsás, Ingas.
+        Aunque de que la ciudad cuenta con una población de ascendencia indígena, la población de Leticia
+        también cuenta con personas provenientes del interior de Colombia, las cuales encuentran
+        oportunidades de trabajo, negocio, dinero o turismo.</string>
+    <string name="Infodes3">De acuerdo con los registros del Departamento Administrativo Nacional de
+        Estadísticas – DANE – para los últimos cinco censos la población el Departamento de Amazonas
+        pasó de 12.962 personas en 1964 a 67.726 en el 2005, es decir, que se ha quintuplicado la población
+        en 40 años, con cambios significativos entre los períodos 1975-1984 y 1993-2005. De igual forma
+        se puede apreciar la dinámica entre la población rural y la población
+        urbana, la cual para los censos de 1985 y 1993 presentaba una mayor cantidad de personas en las cabeceras.</string>
+    <string name="title_activity_acerca_de">Acerca De...</string>
+    <string name="acerca">Acerca de</string>
+    <string name="acercadeinfo">Esta aplicación hace parte de la evaluación de la práctica de laboratorio No 5, del curso:
+        Desarrollo de aplicaciones móviles.
+        </string>
+    <string name="acercadeinfo2">Fue creada por Shara Alejandra Cadavid Aguilar,
+        estudiante de Ingeniería Electrónica en la universidad de Antioquia.</string>
+
+</resources>

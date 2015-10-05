@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Practice4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sitios_turisticos">Turistic_places</string>
+    <string name="sitios_turisticos">Turistic Places</string>
+    <string name="Leticia">ExoticLeticia</string>
+    <string name="descripcion">Tourist Guide fascinating and lush Amazonian city
+    of Colombia , Exotic and adventurous tastes to . Hotel information,
+    Bars, restaurants , the tourist sites ... More</string>
+    <string name="Sitios">"Turistic Places</string>
+    <string name="amacayacu">Amacayacu Natural Park</string>
+    <string name="desAmacayacu">By visiting this area you can observe some of the
+        over 500 species of birds, including macaws and parrots . Also they live there close
+        150 mammals, such as the pink dolphin , manatee , otter , tapir , jaguar and
+    pygmy marmoset . There are also some species of reptiles and many more fascinating species.</string>
+    <string name="desAmacayu2">The Amacayacu National Park is located in the extreme south
+        department of Amazonas , in the so-called " Amazon rain forest ." The park is the first
+        protected area created in the Colombian Amazon in 1975. It is the only system area
+        parks that protects the lowland rainforest of the Amazon River and floodplain.</string>
+    <string name="cahuinari">Cahuinarí Natural Park</string>
+    <string name="cahuinarides">By visiting this area you can see the black caimans up to 10
+    meters long , and charapas , turtles largest fresh water in the world on the beaches of the
+    Cahuanarí rivers and Bernardo , besides other species such as piranhas, alligators , anacondas , ocelots ,
+        tapirs , deer and jaguars.
+    You can practice extreme sports on Lake Taropo as nautical and skiing, boating addition
+    sport fishing.</string>
+    <string name="cahuinarides2">In the National Park Cahuinarí , measuring 575,000 ha, it is
+        Putumayo the indigenous reserve . The area is inhabited by members of the ethnic Bora ,
+        Miraña , Andoque , Nonyuna - Muinane and Huitoto ; trees growing in it and 40 m ..</string>
+    <string name="tarapoto">Tarapoto Lake</string>
+    <string name="tarapotodes">It is a special place to watch the pink dolphins, gray
+        and other wild animals in an area surrounded by lush jungle with large
+        trees and hiking trails .
+        Smaller dolphins are gray, and the bigger ones are pink-skinned , these dolphins are unique
+        in the world. We can watch their games and stunts in the Amazonian lake.
+        In this and other lakes in the region can appreciate the " Victoria Regia " ( a huge variety
+        lotus ) . Also you can see the tree or commonly called fertility in the region
+        Capinuri for his particular likeness to the male sexual organ .</string>
+    <string name="tarapotodes2">The lake is located 80 kilometers from Leticia , about an hour
+        and a half tour of the Amazon , home of the symbols of the Amazon river. </string>
+    <string name="title_activity_hoteles">Hotels</string>
+    <string name="hoteles">Hotels in the city</string>
+    <string name="utuane">Utuane Hotel </string>
+    <string name="utuanedes">Utüane is a new project of hotel
+        which aims to offer its customers the maximum rest and comfort after a day full of adventure
+        in the Amazon. Its name inspired by the Ticuna language, means a resting place.
+        Its infrastructure is inspired by nature and in their own malocas the place, rustic but very
+        comfortable. Its décor with a touch of local art identifies each with the name
+        an animal native to the Amazon, with colors that contrast with the beauty of nature.
+        It has 12 bioclimatic malocas were building wood by 95%.
+        The pool and the trails were built with ecological bricks.
+        Seeks to minimize the environmental impact and create environmental awareness among guests.
+        First of all the environment and landscape of the area is respected
+        without altering in the slightest. The hotel is far from noise and conventional tourist area,
+        surrounded by nature.
+        In Utuane promotes ecological, ethnic and responsible adventure tourism, whose priority is
+        respect for nature, environmental and cultural awareness.</string>
+    <string name="utuanedes2">Utuane Hotel is located 5 minutes from the city of Leticia
+        on Street 14C No.2A - 11/19, la Sarita</string>
+    <string name="kurupira">Floating Cabin Kurupira</string>
+    <string name="kurupirades">The Kurupira is a floating hotel , where you can enjoy the charm of the river and beautiful sunsets .
+        The hotel facilities in the Amazon are constructed in local materials , according to the native tradition.
+        Your name Kurupira according to legend is the forest mother, all powerful .
+        If you want to live a real experience in the Amazon this is the place . Dawn in this house is a spectacle
+        Natural : dolphins passing , birds singing , nature in full concert and sun in its splendor. Is
+        Ideal up very early and go to bed early . You can swim in front of the house or having a mud mask in the back .
+        There tourist plans that make ecotourism activities , wildlife observation offered,
+        visits to native communities , lakes and forests.</string>
+    <string name="kurupirades2">The hotel is located on the Amazon River 15 minutes outside of Leticia</string>
+    <string name="ticuna">Decameron Decalodge Ticuna</string>
+    <string name="ticunades">Among the world´s largest biodiversity. Decalodge Ticuna Hotel is a modern resort
+        all amenities, its location in the heart of Leticia capital of Amazonas Department , makes it a site
+        privileged to be border between Colombia , Peru and Brazil.
+        The structure uses modern design concepts in international hotels. Brazilian samba,
+        Peruvian cuisine, Colombia Decameron passion and spirit converge in this Amazonian charm.
+        Leticia is synonymous with joy , peace and fraternity ; It is considered the place on the planet with the most fascinating
+        showcase unsuspected natural resources thanks to its location on the world´s mightiest river , the Rio Amazonas .
+
+        This hotel becomes an unforgettable proposal for lovers of ecotourism , contact with nature
+        and the discovery of new horizons.</string>
+    <string name="ticunades2">It is located at Cra 11 No. 6-11 - Leticia , Amazonas , only 10
+    minutes from the airport Vasquez Cobo .</string>
+    <string name="title_activity_bares">Bars</string>
+    <string name="bares">Bars of the city</string>
+    <string name="shots">Shot´s and Cokctails</string>
+    <string name="shotsdes">A nice place different, where you can enjoy the best liquors ,
+        excellent service and good music !</string>
+    <string name="shotsdes2">It is located in the town of Leticia , at 7 , 6-27 . Known Rosa area. </string>
+    <string name="abuelo">The Abuelo Night</string>
+    <string name="abuelodes">A place to enjoy your afternoon or evening, with icy beers or drinks more refreshing .
+    Crossover music and live DJs</string>
+    <string name="abuelodes2">It is located in the town of Leticia , Carrera 11 No. 6-107 next to the Hotel Decameron . </string>
+    <string name="tierras">Tierras Amazónicas Restaurant-Bar</string>
+    <string name="tierrasdes">Better known as " Tragadero , bebedero" Their service is main restaurant . Restaurant Amazon Lands
+    It offers delicious traditional food in the Amazon , a variety of fish, meat and
+    typical soups of esta region. It also has a variety of beverages UN Environment and very Amazon </string>
+    <string name="tierrasdes2">It is located on Calle 8 # 7-50 Barrio CentroLeticia , Amazonas.
+    Tierras Amazónicas Hotel</string>
+    <string name="title_activity_info_demografica">Info_demografy</string>
+    <string name="Info">Demographic Information city Leticia</string>
+    <string name="Infodes">Leticia is a city in the far south of Colombia . It is the capital of the Department
+        Amazon . Despite being away from the main urban centers of the country , without communication
+        road is an important trading link with Brazil due to their situation of border city
+        on the Amazon and close the tripartite milestone with Peru and Brazil River.
+        Currently it meets about 60 % of the department´s population and most diverse indigenous party
+        communities as Huitotos , Ingas , Tucanos , Ticunas and Nukaks . The city has great growth
+        demographic and technically form a single city with the Brazilian town of Tabatinga .</string>
+    <string name="Infodes2">Much of its inhabitants are indigenous , but you can also find many groups ,
+        among the most notable are: Huitotos , Yaguas , Tucanos , Ticunas , Camsás , Ingas .
+        Although the city has a population of indigenous descent , the population of Leticia
+        also it has people from the interior of Colombia , which are
+        job opportunities , business, money or tourism.</string>
+    <string name="Infodes3">According to the records of the National Administrative Department
+        Statistics - DANE - for the last five population censuses the Department of Amazonas
+        He went from 12,962 people in 1964 to 67,726 in 2005 , meaning that the population has increased fivefold
+        in 40 years , significant changes between the periods 1975-1984 and 1993-2005 . Similarly
+        you can see the dynamic between the rural population and population
+        Urban , which for censuses of 1985 and 1993 had a greater number of people in the headwaters.</string>
+    <string name="title_activity_acerca_de">About us...</string>
+    <string name="acerca">About us... </string>
+    <string name="acercadeinfo">This application is part of the evaluation of the laboratory Number 5 , of course :
+        Mobile Application Development .
+        </string>
+    <string name="acercadeinfo2">It was created by Shara Alejandra Cadavid Aguilar ,
+        Student of Electronic Engineering at the University of Antioquia .</string>
+
+</resources>
